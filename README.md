@@ -68,7 +68,7 @@ WebProg/
 
 ## 🚀 Telepítés
 
-### 1. Előfeltételek
+### 1. Előfeltételek :
 - PHP 8.0 vagy újabb
 - MySQL 5.7+ vagy MariaDB 10.3+
 - Apache webszerver (mod_rewrite engedélyezve)
